@@ -10,7 +10,7 @@ This project can be customized to predict house prices in your metro area if you
  * Improve the accuracy of the model
  * Figure out how we can improve
 
-#Setup
+# Setup
 
 **Installation**
 To follow this project, please install the following locally:
